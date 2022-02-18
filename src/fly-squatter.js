@@ -2,8 +2,8 @@ class Fly {
     constructor(x, y) {
         this.x = x;
         this.y = y;
-        this.width = 100;
-        this.height = 100;
+        this.width = 200;
+        this.height = 200;
         this.timer = 0;
     }
     
